@@ -6,7 +6,8 @@
 
 <p>In this project, I developed a simple resume layout using core HTML elements. This project focuses on:</p>
 
-<p>- Creating a structured document using headings.
+<p>- Creating a structured document using headings.<br>
+  
 - Using paragraphs for text content.
 - Applying text styling with:
   - Bold 
