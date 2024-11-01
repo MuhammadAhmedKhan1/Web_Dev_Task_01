@@ -6,12 +6,12 @@
 
 <p>In this project, I developed a simple resume layout using core HTML elements. This project focuses on:</p>
 
-<p>- Creating a structured document using headings (`<h1>`, `<h2>`, etc.).
-- Using paragraphs (`<p>`) for text content.
+<p>- Creating a structured document using headings.
+- Using paragraphs for text content.
 - Applying text styling with:
-  - **Bold** (`<b>`)
-  - *Italic* (`<i>`)
-  - Underline (`<u>`)
+  - Bold 
+  - Italic 
+  - Underline
 
 This project serves as a foundational exercise in HTML and demonstrates how basic HTML tags can be used to create a straightforward resume layout.</p>
 
